@@ -1,9 +1,8 @@
 # Helicopter servo bus board
 This project is a PCB designed to facilitate wiring a helicopter servo bus to a drone flight controller.
 
-Mounting pattern: 20x20mm
+Mounting pattern: 20x20mm.
 
-The flight controller in mind when designing this PCB was a [GHF13AIO](https://www.aliexpress.com/af/ghf13aio.html).
 This bus supports 3 servo outputs and so must be used for helicopters with a motor-driven tail connected to an ESC.
 
 The connector footprints are for 1.25mm pitch connectors, such as Molex PicoBlade or JST 1.25.
