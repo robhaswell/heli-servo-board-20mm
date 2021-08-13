@@ -7,14 +7,14 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.9)-1"
     },
-    "CreationDate":  "2021-08-12T17:05:42+01:00"
+    "CreationDate":  "2021-08-13T14:48:15+01:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "heli-servo-board",
-      "GUID": "68656c69-2d73-4657-9276-6f2d626f6172",
+      "Name": "5-servos",
+      "GUID": "352d7365-7276-46f7-932e-6b696361645f",
       "Revision": "rev?"
     },
     "Size":
@@ -40,47 +40,47 @@
   "FilesAttributes":
   [
     {
-      "Path":  "heli-servo-board-F_Cu.gbr",
+      "Path":  "5-servos-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "heli-servo-board-B_Cu.gbr",
+      "Path":  "5-servos-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "heli-servo-board-F_Paste.gbr",
+      "Path":  "5-servos-F_Paste.gbr",
       "FileFunction":  "SolderPaste,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "heli-servo-board-B_Paste.gbr",
+      "Path":  "5-servos-B_Paste.gbr",
       "FileFunction":  "SolderPaste,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "heli-servo-board-F_SilkS.gbr",
+      "Path":  "5-servos-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "heli-servo-board-B_SilkS.gbr",
+      "Path":  "5-servos-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "heli-servo-board-F_Mask.gbr",
+      "Path":  "5-servos-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "heli-servo-board-B_Mask.gbr",
+      "Path":  "5-servos-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "heli-servo-board-Edge_Cuts.gbr",
+      "Path":  "5-servos-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     }
